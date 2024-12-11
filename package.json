@@ -1,0 +1,14 @@
+{
+  "name": "memoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "ashiri-tominaga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
